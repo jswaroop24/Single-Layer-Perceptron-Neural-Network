@@ -35,7 +35,7 @@ Given the inputs $x_1=3$ and $x_2=2$, the target output is **17**. The network s
 
 3.  **Run the script:**
     ```bash
-    python main.ipynb
+    jupyter notebook main.ipynb
     ```
 
 ## 📊 Methodology
