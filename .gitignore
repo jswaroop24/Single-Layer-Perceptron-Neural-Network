@@ -1,0 +1,13 @@
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Mac system junk
+.DS_Store
+
+# Virtual Environments (if you ever use them)
+venv/
+env/
+.env
+
+.pdf
